@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: lightblue;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  text-align: center;
+  padding: 100px;
+}
+
+h1 {
+  font-size: 2.5em;
+  color: #333;
+}
+
+button {
+  font-size: 1.5em;
+  padding: 10px 20px;
+  cursor: pointer;
+  background-color: lightgreen;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color:yellowgreen;
+}
+
+p {
+  font-size: 1.8em;
+  margin-top: 20px;
+  color: #333;
+}
